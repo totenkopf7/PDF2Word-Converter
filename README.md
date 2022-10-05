@@ -1,5 +1,5 @@
 # PDF2Word Converter
-This application converts PDF files into Word documents, easy peasy ;)
+This GUI application converts PDF files into Word documents, easy peasy ;)
 
 # Download 
 You can download its setup file directly from these links:
